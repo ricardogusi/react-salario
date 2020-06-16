@@ -1,0 +1,17 @@
+.read {
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    
+}
+
+.liquid {
+    width: 500px;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+.margin {
+    padding: 15px;
+    width: 300px;
+}
